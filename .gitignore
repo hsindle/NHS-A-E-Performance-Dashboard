@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+.env
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# Streamlit generated files
+.streamlit/config.toml
+.streamlit/*.toml
+
+# Logs and outputs
+*.log
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
